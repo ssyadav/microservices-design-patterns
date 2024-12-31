@@ -1,0 +1,18 @@
+package com.satya.microservices.patterns.sec09.dto;
+
+
+public record Product(Integer id,
+                      String category,
+                      String description,
+                      Integer price) {
+
+    @Override
+    public String toString() {
+        return "Product{" +
+                "id=" + id +
+                ", category='" + category + '\'' +
+                ", description='" + description + '\'' +
+                ", price=" + price +
+                '}';
+    }
+}
