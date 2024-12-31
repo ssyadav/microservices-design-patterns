@@ -21,3 +21,15 @@
 
 
 ![images/timeout-pattern.png](images/timeout-pattern.png)
+
+![images/deployment-pattern.png](images/deployment-pattern.png)
+
+![images/rolling-deployment-pattern.png](images/rolling-deployment-pattern.png)
+
+![images/blue-green-deployment-pattern.png](images/blue-green-deployment-pattern.png)
+
+![images/canary-deployment-pattern.png](images/canary-deployment-pattern.png)
+
+![images/feature-flag-deployment-pattern.png](images/feature-flag-deployment-pattern.png)
+
+![images/ab-testing-deployment-pattern.png](images/ab-testing-deployment-pattern.png)
