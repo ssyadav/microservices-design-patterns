@@ -22,11 +22,11 @@
 
 ![images/timeout-pattern.png](images/timeout-pattern.png)
 
-![images/space-image.png](images/space-image.png)
+<br /><br />
 
 ![images/deployment-strategies-pattern-1.png](images/deployment-strategies-pattern-1.png)
 
-![images/space-image.png](images/space-image.png)
+<br /><br />
 
 ![images/rolling-deployment-1.png](images/rolling-deployment-1.png)
 
