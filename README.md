@@ -22,14 +22,14 @@
 
 ![images/timeout-pattern.png](images/timeout-pattern.png)
 
-![images/deployment-pattern.png](images/deployment-pattern.png)
+![images/deployment-strategies-pattern-1.png](images/deployment-strategies-pattern-1.png)
 
-![images/rolling-deployment-pattern.png](images/rolling-deployment-pattern.png)
+![images/rolling-deployment-1.png](images/rolling-deployment-1.png)
 
-![images/blue-green-deployment-pattern.png](images/blue-green-deployment-pattern.png)
+![images/blue-green-deployment-1.png](images/blue-green-deployment-1.png)
 
-![images/canary-deployment-pattern.png](images/canary-deployment-pattern.png)
+![images/canary-deployment-1.png](images/canary-deployment-1.png)
 
-![images/feature-flag-deployment-pattern.png](images/feature-flag-deployment-pattern.png)
+![images/feature-flag-deployment-s.png](images/feature-flag-deployment-s.png)
 
-![images/ab-testing-deployment-pattern.png](images/ab-testing-deployment-pattern.png)
+![images/ab-testing-deployment-1.png](images/ab-testing-deployment-1.png)
